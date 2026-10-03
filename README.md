@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # flutter_application_2
+=======
+# flutter_application_1
+>>>>>>> c778269d0a4678964b813379a3841be3791abf91
 
 A new Flutter project.
 

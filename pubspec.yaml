@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 name: flutter_application_2
+=======
+name: flutter_application_1
+>>>>>>> c778269d0a4678964b813379a3841be3791abf91
 description: "A new Flutter project."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -56,6 +60,12 @@ flutter:
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true
+<<<<<<< HEAD
+=======
+  assets:
+  - assets/
+
+>>>>>>> c778269d0a4678964b813379a3841be3791abf91
 
   # To add assets to your application, add an assets section, like this:
   # assets:

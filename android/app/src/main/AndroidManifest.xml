@@ -1,6 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
+<<<<<<< HEAD
         android:label="flutter_application_2"
+=======
+        android:label="flutter_application_1"
+>>>>>>> c778269d0a4678964b813379a3841be3791abf91
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
